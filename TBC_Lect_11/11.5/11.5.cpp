@@ -4,7 +4,7 @@ using namespace std;
 class Base
 {
 public:
-	int _public;
+	int _public; 
 protected:
 	int _protected;
 private:

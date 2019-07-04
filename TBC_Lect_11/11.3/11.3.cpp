@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-class Mother
+class Mother 
 {
 public: //protected로 두면 자식 클래스에서는 접근 가능함
 	int _i;

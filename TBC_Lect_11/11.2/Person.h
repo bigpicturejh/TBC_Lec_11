@@ -3,7 +3,7 @@
 #include<iostream>
 
 class Person
-{
+{ 
 private:
 	std::string _name;
 

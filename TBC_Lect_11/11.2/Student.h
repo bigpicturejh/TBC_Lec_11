@@ -7,7 +7,7 @@ class Student : public Person
 {
 private:
 	
-	int _intel;
+	int _intel; 
 	
 	//TODO: add more members like adress, phone, favorate ...etc...
 

@@ -4,7 +4,7 @@ using namespace std;
 
 class Mother //generalized class
 {
-private:
+private: 
 	int _i;
 
 //protected: //private특성은 유지하면서 자식 class에는 접근 권한을 줌

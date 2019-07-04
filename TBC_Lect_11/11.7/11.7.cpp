@@ -17,7 +17,7 @@ public:
 	{
 		cout << "I'm base" << endl;
 	}
-
+	 
 	friend std::ostream& operator <<(std::ostream& out, const Base& b)
 	{
 		out << "This is base output" << endl;

@@ -4,7 +4,7 @@
 
 class Teacher : public Person
 {
-private:
+private: 
 
 
 public:
